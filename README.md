@@ -12,18 +12,18 @@ I developed this for my own purposes. This plugin was originally developed for a
 
 # Installation
 
-1. Download the [Blackbird Starter Plugin zip file] (https://github.com/Herm71/blackbird-starter-plugin.git).
+1. Download the [Blackbird PageSpeed Plugin zip file] (https://github.com/Herm71/blackbird-pagespeed-plugin).
 2. In your WordPress Dashboard, navigate to **Plugins**.
 3. Click the **Add New** button at the top of the page.
 4. Click the **Upload Plugin** button at the top of the screen.
 5. Click **Choose File**
-5. Navigate to the **blackbird-starter-plugin.zip** file you downloaded from [GitHub](https://www.github.com) and click **open**, then click **Install Now**.
+5. Navigate to the **blackbird-pagespeed-plugin.zip** file you downloaded from [GitHub](https://www.github.com) and click **open**, then click **Install Now**.
 6. Once the plugin is installed, click **Activate Plugin**.
 7. After the plugin is installed, navigate to **Settings** in the dashboard and you will find a new sub-menu titled, **"Blackbird Custom Plugin Menu."** 
 
 # Contributors
 
-Again, I give credit to [Otto on WordPress](http://ottopress.com) for introducing me to the process and the code structure. Otherwise all code was written by me, [Jason Chafin](http://www.jasonchafin.com), founder and president of [Blackbird Consulting](http://www.blackbirdconsult.com). 
+This plugin was solely written by Jason Chafin, Sole Proprietor of Blackbird Consulting.
 
 **Twitter:**  @BlackbirdConsul
 
