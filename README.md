@@ -1,15 +1,14 @@
-# Blackbird Starter Plugin
+# Blackbird PageSpeed Plugin
 
 # Synopsis
 
-This is a starter-plugin, a basis to build on. This plugin was developed using the [WordPress Settings API Tutorial](http://ottopress.com/2009/wordpress-settings-api-tutorial/). 
-The plugin creates a new "Settings" admin page, and registers a few input fields. You can copy and paste to add more options based on the examples given.
+So far, this plugin will unregister WP_jQuery and re-register jQuery from Google hosted api. It will also remove version query strings from CSS and jQuery files, thus making them static. Each of these functions will increase your PageSpeed.
 
 Because this was developed as a learning tool, it is heavily commented. The bulk of the code resides in `blackbird-starter-plugin/lib/functions/bb_admin.php`. I have referenced the API calls in the heading comments of each section of the code. This is an evolving process, but I hope to have given enough direction to get you started.
 
 # Motivation
 
-I developed this for my own purposes. I came across the [**Otto Tutorial**](http://ottopress.com/2009/wordpress-settings-api-tutorial/) in a web search. I wanted to get to know the code so I decided to create my own version of it. Something I can clone into a project and craft to my liking. Also, to familiarize myself with the **WordPress Settings API**.
+I developed this for my own purposes. This plugin was originally developed for a client who's site host I did not have access to. I thought I'd offer it to the community.
 
 # Installation
 
