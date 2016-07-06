@@ -4,7 +4,7 @@
 
 So far, this plugin will unregister WP_jQuery and re-register jQuery from Google hosted api. It will also remove version query strings from CSS and jQuery files, thus making them static. Each of these functions will increase your PageSpeed.
 
-Because this was developed as a learning tool, it is heavily commented. The bulk of the code resides in `blackbird-starter-plugin/lib/functions/bb_admin.php`. I have referenced the API calls in the heading comments of each section of the code. This is an evolving process, but I hope to have given enough direction to get you started.
+Because this was developed as a learning tool, it is heavily commented. The bulk of the code resides in `blackbird-pagespeed-plugin/lib/functions/bb_admin.php`. I have referenced the API calls in the heading comments of each section of the code. This is an evolving process, but I hope to have given enough direction to get you started.
 
 # Motivation
 
@@ -37,14 +37,18 @@ This plugin was solely written by Jason Chafin, Sole Proprietor of Blackbird Con
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## 0.0.1 - 2016-02-044
+## 0.2.1 - 2016-07-06
+### Added
+- Cleaning up the code
+
+## 0.0.1 - 2016-07-05
 ### Added
 - Initial Commit
 - Developed plugin
 
 ## Changelog Template
 
-## 0.0.0 - 2016-01-22
+## 0.2.1 - 2016-01-22
 ### Added
 - Initial Commit
 - Developed plugin

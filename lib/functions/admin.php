@@ -89,15 +89,6 @@ $rvqs_echo = true;
 </form>
 
 </div><?php 
-//$test1 = get_option('jquery_replace');
-//$test2 = get_option('remove_query_strings');
-
-//echo $test1.'<br>';
-//echo $test2.'<br>';
-//echo plugins_url('lib/css/admin-css.css', __FILE__).'<br>';
-
-echo plugins_url('lib/images/blackbird-logo.png');
-//var_dump($checked);
 }
 
 //Settings Page

@@ -3,7 +3,7 @@
  * Plugin Name: Blackbird Page Speed Plugin
  * Plugin URI: https://github.com/Herm71/blackbird-pagespeed-plugin
  * Description: Starter Plugin for development purposes. Theme independent.
- * Version: 0.2.0
+ * Version: 0.2.1
  * Author: Blackbird Consulting
  * Author URI: http://www.blackbirdconsult.com/
  * License: GPL2
